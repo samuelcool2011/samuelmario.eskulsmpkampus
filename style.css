@@ -35,10 +35,15 @@ nav ul li a:hover,
 nav ul li a.active {
     color:rgb(15, 24, 24);
 }
+contact form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px
 
 footer {
     background-color: black;
     color: brown;
     text-align: center;
     padding: 15px;
+
 }
